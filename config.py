@@ -54,3 +54,9 @@ WORD_FORMS_PATH = "data/word_forms.json"
 SYNONYMS_PATH = "data/synonyms.json"
 
 print("✅ Конфиг загружен (без ключей в коде)")
+
+# ===== ПУТИ К МОДУЛЯМ =====
+# Используем modules_correct вместо modules
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), 'modules_correct'))
