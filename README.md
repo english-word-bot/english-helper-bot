@@ -46,6 +46,7 @@ Telegram-бот для изучения английского языка с И�
 ```bash
 git clone https://github.com/english-word-bot/english-helper-bot.git
 cd english-helper-bot
+```
 
 ## 📞 Контакты и сотрудничество
 
