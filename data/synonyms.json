@@ -1,0 +1,42 @@
+{
+  "happy": {
+    "synonyms": ["joyful", "cheerful", "glad", "delighted", "content"],
+    "antonyms": ["sad", "unhappy", "miserable", "depressed"]
+  },
+  "big": {
+    "synonyms": ["large", "huge", "enormous", "gigantic", "massive"],
+    "antonyms": ["small", "tiny", "little", "miniature"]
+  },
+  "fast": {
+    "synonyms": ["quick", "rapid", "swift", "speedy"],
+    "antonyms": ["slow", "sluggish", "leisurely"]
+  },
+  "beautiful": {
+    "synonyms": ["pretty", "attractive", "gorgeous", "stunning", "lovely"],
+    "antonyms": ["ugly", "unattractive", "plain"]
+  },
+  "smart": {
+    "synonyms": ["intelligent", "clever", "bright", "brilliant", "wise"],
+    "antonyms": ["stupid", "dumb", "foolish", "unintelligent"]
+  },
+  "good": {
+    "synonyms": ["excellent", "great", "fine", "wonderful", "superb"],
+    "antonyms": ["bad", "poor", "terrible", "awful"]
+  },
+  "run": {
+    "synonyms": ["jog", "sprint", "dash", "race", "hurry"],
+    "antonyms": ["walk", "crawl", "stroll"]
+  },
+  "say": {
+    "synonyms": ["tell", "speak", "utter", "express", "state"],
+    "antonyms": ["listen", "hear", "be quiet"]
+  },
+  "make": {
+    "synonyms": ["create", "produce", "build", "construct", "manufacture"],
+    "antonyms": ["destroy", "break", "ruin", "demolish"]
+  },
+  "see": {
+    "synonyms": ["look", "watch", "observe", "view", "notice"],
+    "antonyms": ["ignore", "overlook", "miss"]
+  }
+}
