@@ -1,0 +1,83 @@
+{
+  "go": {
+    "type": "verb",
+    "irregular": true,
+    "forms": {
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone",
+      "present_participle": "going",
+      "third_person": "goes"
+    },
+    "translation": "идти, ехать"
+  },
+  "be": {
+    "type": "verb",
+    "irregular": true,
+    "forms": {
+      "infinitive": "be",
+      "past_simple": "was/were",
+      "past_participle": "been",
+      "present_participle": "being",
+      "third_person": "is"
+    },
+    "translation": "быть"
+  },
+  "have": {
+    "type": "verb",
+    "irregular": true,
+    "forms": {
+      "infinitive": "have",
+      "past_simple": "had",
+      "past_participle": "had",
+      "present_participle": "having",
+      "third_person": "has"
+    },
+    "translation": "иметь"
+  },
+  "run": {
+    "type": "verb",
+    "irregular": true,
+    "forms": {
+      "infinitive": "run",
+      "past_simple": "ran",
+      "past_participle": "run",
+      "present_participle": "running",
+      "third_person": "runs"
+    },
+    "translation": "бежать"
+  },
+  "cat": {
+    "type": "noun",
+    "plural": "cats",
+    "translation": "кот, кошка"
+  },
+  "child": {
+    "type": "noun",
+    "plural": "children",
+    "translation": "ребёнок"
+  },
+  "beautiful": {
+    "type": "adjective",
+    "comparative": "more beautiful",
+    "superlative": "most beautiful",
+    "translation": "красивый"
+  },
+  "good": {
+    "type": "adjective",
+    "irregular": true,
+    "comparative": "better",
+    "superlative": "best",
+    "translation": "хороший"
+  },
+  "fast": {
+    "type": "adjective",
+    "comparative": "faster",
+    "superlative": "fastest",
+    "translation": "быстрый"
+  },
+  "quickly": {
+    "type": "adverb",
+    "translation": "быстро"
+  }
+}
